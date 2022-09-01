@@ -2,4 +2,4 @@
 
 1-listit -Display the contents list of your current directory.
 
-2-bring-me-home -Write a script that changes the working directory to the user’s home directory.
+2-bring-me-home -Write a script that changes the working directory to the user  home directory.
