@@ -10,3 +10,5 @@
 4-listmorefiles -Display current directory contents, including hidden files (starting with .). Use the long format.
 5-listfilesdigitonly -Display current directory contents.
 >>>>>>> b124e037e4a91e78ec05d6454577192f5b7f26d0
+
+7-movethatfile -Move the file betty from /tmp/ to /tmp/my-first-directory.
