@@ -12,3 +12,4 @@
 >>>>>>> b124e037e4a91e78ec05d6454577192f5b7f26d0
 
 7-movethatfile -Move the file betty from /tmp/ to /tmp/my-first-directory.
+8-firstdelete -Delete the file betty.
